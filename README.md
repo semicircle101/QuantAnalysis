@@ -1,5 +1,5 @@
 Title: Tools of the Trade
-Author: Jon Reades
+Author: Jon Reade
 Theme: casa notes
 Palette: Purple
 Size: Wide
